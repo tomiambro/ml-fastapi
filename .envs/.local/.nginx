@@ -1,0 +1,6 @@
+# Nginx
+NGINX_HOST=localhost
+UPSTREAMS=/:ml_fastapi_backend:8000
+ENABLE_SSL=
+CERTBOT_EMAIL=
+DOMAIN_LIST=

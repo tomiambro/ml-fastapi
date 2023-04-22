@@ -1,0 +1,6 @@
+# Database
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DB=mlfastapi
+POSTGRES_HOST=ml_fastapi_db
+POSTGRES_PORT=5432
